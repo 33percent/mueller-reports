@@ -43,6 +43,7 @@ dependencies:
   - nbconvert=5.6.1
   - nbformat=4.4.0
   - ncurses=6.1
+  - nltk=3.4.5
   - notebook=6.0.1
   - numpy=1.17.3
   - numpy-base=1.17.3
